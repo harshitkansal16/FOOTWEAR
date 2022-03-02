@@ -1,0 +1,38 @@
+.cart{
+    background-image: "https://media.istockphoto.com/vectors/shopping-cart-icon-with-long-shadow-vector-id623282308?k=20&m=623282308&s=612x612&w=0&h=ruvVW1JMAEqe-ShwCqRcu2cNqFkGJ4EbiFP9dLMp8QQ=";
+}
+
+.outer{
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+    text-align: center;
+    border: 1px solid lightgrey;
+    flex-wrap: wrap;
+
+}
+
+.card-img-top1{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    min-width: 150px;
+    width: 300px;
+    border-radius: 10px;
+    height:300px;
+      vertical-align: middle;
+}
+.card-body h6{
+    
+    text-align: center;
+    padding: 5px;
+
+    
+}
+.card-body{
+   
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+}

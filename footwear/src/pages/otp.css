@@ -1,0 +1,18 @@
+
+#div123{
+    background-color: grey;
+    height: 100vh;
+    display:"flex";
+    justify-content:center;
+    flex-direction: column;
+    padding: 50px;
+   
+}
+
+#card12{
+    
+    width: 600px;
+    height: 400px;
+    left: 25%;
+    
+}
